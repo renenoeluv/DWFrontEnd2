@@ -3,24 +3,15 @@ Proyecto para enseñar el funcionamiento de un formulario en PHP. Desarrollo Web
 
 # Requisitos
 1. Tener instalado [WAMP Server](http://www.wampserver.com/).
-1. Tener instalado [NodeJS](https://nodejs.org/en/download/current/).
-2. Tener instalado Bower:
+2. Tener instalado [Git](https://git-scm.com/downloads).
+3. Tener instalado [NodeJS](https://nodejs.org/en/download/current/).
+4. Tener instalado Bower:
 `npm install -g bower`
 
 # Instalación
 1. Iniciar el servicio de WAMP Server.
-2. Abrir consola y cambiar a la carpeta `www` de WAMP Server:
-
-`cd C:/wamp/www`
-
-3. Descargar repositorio desde GitHub:
-
-`git clone https://github.com/MiguelGonzalezAravena/FormularioPHP.git`
-
-4. Instalar dependencias:
-
-`bower install`
-
+2. Abrir consola y cambiar a la carpeta `www` de WAMP Server: `cd C:/wamp/www`
+3. Descargar repositorio desde GitHub: `git clone https://github.com/MiguelGonzalezAravena/FormularioPHP.git`
+4. Instalar dependencias: `bower install`
 5. Ingresar mediante el navegador al siguiente enlace:
-
 [Clic aquí](http://127.0.0.1/FormularioPHP)
