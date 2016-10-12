@@ -12,12 +12,15 @@ Proyecto para enseñar el funcionamiento de un formulario en PHP. Desarrollo Web
 2. Abrir consola y cambiar a la carpeta `www` de WAMP Server:
 
 `cd C:/wamp/www`
+
 3. Descargar repositorio desde GitHub:
 
 `git clone https://github.com/MiguelGonzalezAravena/FormularioPHP.git`
+
 4. Instalar dependencias:
 
 `bower install`
+
 5. Ingresar mediante el navegador al siguiente enlace:
 
 [Clic aquí](http://127.0.0.1/FormularioPHP)
