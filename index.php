@@ -1,11 +1,3 @@
-<?php
-/*====================================================================+
-|| # Formulario PHP - Desarrollo Web 2016 - Universidad de Valparaíso
-|+====================================================================+
-|| # Copyright © 2016 Miguel González Aravena. All rights reserved.
-|| # https://github.com/MiguelGonzalezAravena/FormularioPHP
-|+====================================================================*/
-?>
 <!DOCTYPE html>
 <html>
 <head>
